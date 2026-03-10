@@ -3,7 +3,6 @@
 
 **Versión:** 1.0  
 **Audiencia:** Estudiantes de desarrollo full-stack  
-**Duración estimada de lectura:** 45 minutos
 
 ---
 
@@ -1070,22 +1069,6 @@ Dado un servicio Redis nuevo, escribe su Dockerfile considerando:
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Best Practices for Node.js Docker](https://snyk.io/blog/10-docker-image-security-best-practices/)
 
----
-
-## ✅ Checklist: ¿Entendiste Todo?
-
-- [ ] ¿Explicas por qué Docker resuelve el problema "en mi máquina funciona"?
-- [ ] ¿Diferencias Imagen vs Contenedor?
-- [ ] ¿Entiendes por qué usamos multi-stage builds?
-- [ ] ¿Sabes qué hace each línea del Dockerfile?
-- [ ] ¿Explicas cómo se comunican los servicios en Docker Compose?
-- [ ] ¿Entiendes por qué usamos Nginx para frontend?
-- [ ] ¿Sabes qué es healthcheck y para qué sirve?
-- [ ] ¿Explicas el flujo CI/CD de GitHub Actions?
-- [ ] ¿Resuelves errores comunes de Docker?
-- [ ] ¿Puedes escribir un Dockerfile desde cero?
-
-Si respondiste "sí" a todos, **¡felicidades! Ya entiendes Docker y CI/CD! 🎉**
 
 ---
 
@@ -1119,7 +1102,3 @@ Este proyecto es una **plantilla educativa** que demuestra:
 **Todos estos conceptos te abrirán puertas en entrevistas técnicas y trabajos reales.** Docker es el estándar de la industria en 2025. 🚀
 
 ---
-
-**Última actualización:** Marzo 2025  
-**Autor:** Material Educativo  
-**Licencia:** CC BY-SA (Compartir, modificar, atribuir)

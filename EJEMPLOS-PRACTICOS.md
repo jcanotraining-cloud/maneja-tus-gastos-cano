@@ -1,6 +1,6 @@
 # 🛠️ Ejemplos Prácticos y Casos de Uso
 
-Ejercicios hands-on para que tus estudiantes practiquen conceptos.
+Ejercicios hands-on.
 
 ---
 

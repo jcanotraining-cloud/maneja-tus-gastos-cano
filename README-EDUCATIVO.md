@@ -77,7 +77,7 @@ Contiene:
 
 ## 🗺️ Roadmap Recomendado
 
-### Día 1: Fundamentos (2-3 horas)
+### Día 1: Fundamentos
 ```
 1. Lee: GUIA-DOCKER-GITHUB-ACTIONS.md (Secciones 1-4)
 2. Entiende: Por qué Docker, conceptos de imagen/contenedor
@@ -85,7 +85,7 @@ Contiene:
 4. Intenta: docker-compose up en tu máquina
 ```
 
-### Día 2: Docker Compose & Redes (2 horas)
+### Día 2: Docker Compose & Redes
 ```
 1. Lee: GUIA-DOCKER-GITHUB-ACTIONS.md (Secciones 5-6)
 2. Entiende: Cómo se comunican backend, frontend, BD
@@ -93,7 +93,7 @@ Contiene:
 4. Debuggea: docker-compose logs para ver qué pasa
 ```
 
-### Día 3: GitHub Actions (2 horas)
+### Día 3: GitHub Actions
 ```
 1. Lee: GUIA-DOCKER-GITHUB-ACTIONS.md (Sección 7)
 2. Analiza: Workflows del proyecto (deploy-frontend.yml, deploy-backend.yml)
@@ -101,7 +101,7 @@ Contiene:
 4. Intenta: Haz un commit y mira GitHub Actions ejecutar
 ```
 
-### Día 4: Casos Avanzados (3-4 horas)
+### Día 4: Casos Avanzados
 ```
 1. Lee: EJEMPLOS-PRACTICOS.md (Ej. 1, 2, 5)
 2. Implementa: Al menos 3 ejemplos en tu repo práctica
@@ -109,7 +109,7 @@ Contiene:
 4. Observa: GitHub Actions pasando todos los tests
 ```
 
-### Día 5: Debugging & Troubleshooting (1-2 horas)
+### Día 5: Debugging & Troubleshooting
 ```
 1. Lee: TROUBLESHOOTING-CHEATSHEET.md
 2. Memoriza: Comandos de docker-compose más comunes
