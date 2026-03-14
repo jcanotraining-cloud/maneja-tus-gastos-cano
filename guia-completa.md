@@ -217,7 +217,7 @@ Cada `git push` a `main` con cambios en `backend/` dispara el workflow.
 > ⚠️ **Nota para alumnos**: El free tier de Render "duerme" el servicio
 > tras 15 min de inactividad. La primera request puede tardar ~30 seg.
 
-----
+---
 
 ## ⚙️ GitHub Actions — Resumen de Secrets
 
