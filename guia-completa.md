@@ -175,7 +175,7 @@ firebase deploy --only hosting
 ### ✅ Deploy automático
 A partir de ahora, cada `git push` a `main` con cambios en `frontend/` dispara el workflow automáticamente.
 
----
+--
 
 ## 🟢 PASO A PASO: Render.com
 
