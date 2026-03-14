@@ -67,7 +67,7 @@ cd maneja-tus-gastos
 cp backend/.env.example backend/.env
 
 # 3. Levantar todo
-docker-compose up --build
+docker-compose up -d --build
 ```
 
 | Servicio    | URL                          |
